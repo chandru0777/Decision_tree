@@ -1,4 +1,4 @@
-# 📚 Smart Study Hour Predictor
+#  Smart Study Hour Predictor
 
 This project is a **Machine Learning web application** built using **Flask** that predicts whether a student will **pass or fail** based on their study habits, sleep hours, previous exam score, and distraction level.  
 It uses a **Decision Tree Classifier** for prediction.
@@ -31,7 +31,7 @@ Decision_tree/
 ```
 
 
-## 📊 Dataset
+##  Dataset
 **`study_data.csv`** contains the following columns:
 - `study_hours` → Hours spent studying daily.
 - `sleep_hours` → Hours of sleep per day.
