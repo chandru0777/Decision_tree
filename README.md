@@ -85,4 +85,7 @@ Allow CSV upload for bulk predictions.
 
 Implement Random Forest for better accuracy.
 
-
+## Screenshots
+![alt text](<Screenshot 2025-08-09 122940.png>)
+![alt text](<Screenshot 2025-08-09 123003.png>)
+![alt text](<Screenshot 2025-08-09 123018.png>)
